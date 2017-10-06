@@ -1,0 +1,13 @@
+extends layout
+
+block content
+    h1 Chat Rooms:
+    table.table.table-striped
+        tbody
+            thead
+                th Name
+                th Room ID
+            each room in rooms
+                tr
+                    td= room.name
+                    td= room.id
