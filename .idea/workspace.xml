@@ -18,41 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rooms.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/rooms.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -62,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -71,18 +41,18 @@
       <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popper.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/popper.js/dist/popper.js">
+      <file leaf-file-name="users.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/users.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2932">
-              <caret line="2285" column="0" lean-forward="true" selection-start-line="2285" selection-start-column="0" selection-end-line="2285" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -91,8 +61,8 @@
       <file leaf-file-name="rooms.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/rooms.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -101,21 +71,10 @@
       <file leaf-file-name="add.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/add.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2325">
-              <caret line="155" column="23" lean-forward="false" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
+            <state relative-caret-position="150">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding>
-                <marker date="1507251298000" expanded="true" signature="107:63184" ph="{...}" />
-                <marker date="1507251298000" expanded="true" signature="63174:63180" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+                <marker date="1507295738000" expanded="true" signature="101:340" ph="..." />
               </folding>
             </state>
           </provider>
@@ -140,22 +99,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/public/admin/rooms.html" />
         <option value="$PROJECT_DIR$/rooms.jade" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/views/users.jade" />
-        <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/views/index.jade" />
-        <option value="$PROJECT_DIR$/views/rooms.jade" />
+        <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/views/add.jade" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/views/rooms.jade" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -277,9 +242,11 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="javascript.nodejs.core.library.configured.version" value="7.4.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -391,12 +358,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507209581448</updated>
-      <workItem from="1507209582721" duration="16211000" />
+      <workItem from="1507209582721" duration="23204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16211000" />
+    <option name="totallyTimeSpent" value="23204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="1129" extended-state="0" />
@@ -409,9 +376,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297975" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39922854" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39922854" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -438,8 +405,8 @@
         <state relative-caret-position="2325">
           <caret line="155" column="23" lean-forward="false" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
           <folding>
-            <marker date="1507251298000" expanded="true" signature="107:63184" ph="{...}" />
-            <marker date="1507251298000" expanded="true" signature="63174:63180" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1507298091000" expanded="true" signature="107:63567" ph="{...}" />
+            <marker date="1507298091000" expanded="true" signature="63557:63563" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -455,7 +422,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -468,11 +435,417 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/users.jade">
+    <entry file="file://$PROJECT_DIR$/node_modules/popper.js/dist/popper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="2932">
+          <caret line="2285" column="0" lean-forward="false" selection-start-line="2285" selection-start-column="0" selection-end-line="2285" selection-end-column="0" />
+          <folding>
+            <marker date="1501094705000" expanded="true" signature="0:1261" ph="/** ! ...*/" />
+            <marker date="1501094705000" expanded="true" signature="1340:1546" ph="/** Determine if a function is implemented natively (as opposed to a polyfill). ...*/" />
+            <marker date="1501094705000" expanded="true" signature="1833:1957" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="1914:1955" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="1990:2626" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2080:2292" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="2339:2349" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2445:2623" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2467:2619" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2654:2849" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2696:2846" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2718:2842" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="2767:2794" ph="{&quot;scheduled&quot;: scheduled...}" />
+            <marker date="1501094705000" expanded="true" signature="2851:3162" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="3251:3458" ph="/** Create a debounced version of a method, that's asynchronously deferred ...*/" />
+            <marker date="1501094705000" expanded="true" signature="3542:3734" ph="/** Check if the given variable is a function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="3772:3889" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="3891:4046" ph="/** Get CSS computed property of the given element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="4100:4278" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="4132:4152" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="4280:4437" ph="/** Returns the parentNode or the host of the element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="4470:4579" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="4507:4532" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="4581:4745" ph="/** Returns the scrolling parent of the given element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="4780:5271" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="4948:4986" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="5193:5218" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="5273:5434" ph="/** Returns the offset parent of the given element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="5469:6045" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="5678:5727" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="5731:5843" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="5972:6019" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6083:6257" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6144:6167" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6259:6434" ph="/** Finds the root node (document, shadowDOM root) of the given element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="6458:6552" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6492:6534" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6554:6765" ph="/** Finds the offset parent common to the two provided nodes ...*/" />
+            <marker date="1501094705000" expanded="true" signature="6818:8062" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="6993:7042" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="7627:7784" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="7681:7726" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="7911:7980" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="7986:8060" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="8064:8308" ph="/** Gets the scroll value of the given element in the given side (top and left) ...*/" />
+            <marker date="1501094705000" expanded="true" signature="8351:8704" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="8506:8672" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="8706:9116" ph="/*...*/" />
+            <marker date="1501094705000" expanded="true" signature="9173:9477" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="9479:9771" ph="/*...*/" />
+            <marker date="1501094705000" expanded="true" signature="9811:10021" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10023:10145" ph="/** Tells if you are running Internet Explorer 10 ...*/" />
+            <marker date="1501094705000" expanded="true" signature="10198:10313" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10228:10294" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10366:10627" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10655:10942" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10821:10939" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="10994:11240" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11041:11220" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11103:11216" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11166:11210" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11243:11439" ph="/** Given element offsets, generate an output similar to getBoundingClientRect ...*/" />
+            <marker date="1501094705000" expanded="true" signature="11472:11596" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11505:11592" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11598:11751" ph="/** Get bounding client rect of given element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="11792:13332" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="11814:11978" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="11997:12307" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="12007:12288" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="12313:12362" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="12381:12496" ph="{&quot;left&quot;: rect.left...}" />
+            <marker date="1501094705000" expanded="true" signature="12884:13024" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="13064:13297" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="13398:15063" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="13845:14039" ph="{&quot;width&quot;: childrenRect.width...}" />
+            <marker date="1501094705000" expanded="true" signature="14096:14378" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="14404:14881" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="14991:15042" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="15129:15701" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="15498:15665" ph="{&quot;width&quot;: width...}" />
+            <marker date="1501094705000" expanded="true" signature="15703:15927" ph="/** Check if the given element is fixed or is inside a fixed parent ...*/" />
+            <marker date="1501094705000" expanded="true" signature="15954:16198" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="16043:16066" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="16132:16154" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="16200:16519" ph="/** Computed the boundaries limits and return them ...*/" />
+            <marker date="1501094705000" expanded="true" signature="16590:18119" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="16794:16877" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="16883:17954" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17021:17205" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17132:17199" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17247:17310" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17316:17365" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17582:17851" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="17857:17950" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="18157:18185" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="18187:18524" ph="/** Utility used to transform the `auto` placement to the placement with more ...*/" />
+            <marker date="1501094705000" expanded="true" signature="18626:19693" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="18668:18695" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="18797:19189" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="18808:18889" ph="{&quot;width&quot;: boundaries.width...}" />
+            <marker date="1501094705000" expanded="true" signature="18902:18988" ph="{&quot;height&quot;: boundaries.height...}" />
+            <marker date="1501094705000" expanded="true" signature="19002:19089" ph="{&quot;width&quot;: boundaries.width...}" />
+            <marker date="1501094705000" expanded="true" signature="19101:19185" ph="{&quot;height&quot;: boundaries.height...}" />
+            <marker date="1501094705000" expanded="true" signature="19253:19266" ph="{&quot;key&quot;: key...}" />
+            <marker date="1501094705000" expanded="true" signature="19280:19315" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="19695:20034" ph="/** Get offsets to the reference element ...*/" />
+            <marker date="1501094705000" expanded="true" signature="20090:20243" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="20245:20455" ph="/** Get the outer sizes of the given element (offset size + margins) ...*/" />
+            <marker date="1501094705000" expanded="true" signature="20488:20808" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="20710:20788" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="20810:20972" ph="/** Get the opposite placement of the given one ...*/" />
+            <marker date="1501094705000" expanded="true" signature="21014:21176" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="21178:21644" ph="/** Get offsets to the popper ...*/" />
+            <marker date="1501094705000" expanded="true" signature="21708:22728" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="21904:21968" ph="{&quot;width&quot;: popperRect.width...}" />
+            <marker date="1501094705000" expanded="true" signature="22492:22600" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="22606:22701" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="22730:22897" ph="/** Mimics the `find` method of Array ...*/" />
+            <marker date="1501094705000" expanded="true" signature="22924:23111" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="22988:23021" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="23113:23286" ph="/** Return the index of the matching object ...*/" />
+            <marker date="1501094705000" expanded="true" signature="23324:23603" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="23398:23457" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="23605:23903" ph="/** Loop trough the list of modifiers and run them in order, ...*/" />
+            <marker date="1501094705000" expanded="true" signature="23949:24697" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="24103:24121" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="24132:24216" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="24310:24673" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="24318:24499" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="24699:24912" ph="/** Updates the position of the popper, computing the new offsets and applying ...*/" />
+            <marker date="1501094705000" expanded="true" signature="24931:26276" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="25025:25042" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="25057:25154" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="25288:25475" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="26028:26129" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="26159:26230" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="26236:26274" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="26278:26401" ph="/** Helper used to know if the given modifier is enabled. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="26454:26539" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="26541:26769" ph="/** Get the prefixed supported property name ...*/" />
+            <marker date="1501094705000" expanded="true" signature="26814:27212" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="26995:27195" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="27162:27191" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="27214:27274" ph="/** Destroy the popper ...*/" />
+            <marker date="1501094705000" expanded="true" signature="27294:27941" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="27441:27663" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="27700:27829" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="27866:27924" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="28020:28333" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="28201:28301" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="28335:28458" ph="/** Setup needed event listeners used to update the popper position ...*/" />
+            <marker date="1501094705000" expanded="true" signature="28528:28952" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="28954:29111" ph="/** It will add resize/scroll events and start recalculating ...*/" />
+            <marker date="1501094705000" expanded="true" signature="29144:29287" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="29179:29285" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="29289:29406" ph="/** Remove event listeners used to update the popper position ...*/" />
+            <marker date="1501094705000" expanded="true" signature="29455:29874" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="29653:29665" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="29876:30113" ph="/** It will remove resize/scroll events and won't recalculate popper position ...*/" />
+            <marker date="1501094705000" expanded="true" signature="30147:30309" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="30181:30307" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="30311:30443" ph="/** Tells if a given input is a number ...*/" />
+            <marker date="1501094705000" expanded="true" signature="30466:30528" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="30530:30787" ph="/** Set the style to the given popper ...*/" />
+            <marker date="1501094705000" expanded="true" signature="30824:31145" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="30864:30883" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31064:31090" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31147:31414" ph="/** Set the attributes to the given popper ...*/" />
+            <marker date="1501094705000" expanded="true" signature="31459:31691" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31511:31687" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31574:31633" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31639:31683" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="31693:32122" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="32149:32818" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="32153:32409" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="32461:32592" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="32741:32800" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="32820:33249" ph="/** Set the x-placement attribute before everything else because it could be used ...*/" />
+            <marker date="1501094705000" expanded="true" signature="33328:34059" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="33446:33633" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="33859:33991" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="34061:34302" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="34340:37243" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="34632:34784" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="35067:35102" ph="{&quot;position&quot;: popper.position...}" />
+            <marker date="1501094705000" expanded="true" signature="35161:35309" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="35416:35612" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="35682:36210" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="36254:36312" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="36318:36346" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="36372:36429" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="36435:36465" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="36509:36667" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="36673:36987" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="37026:37065" ph="{&quot;x-placement&quot;: data.placement...}" />
+            <marker date="1501094705000" expanded="true" signature="37245:37621" ph="/** Helper used to know if the given modifier depends from another one.&lt;br /&gt; ...*/" />
+            <marker date="1501094705000" expanded="true" signature="37692:38230" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="37836:37937" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="37965:38207" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38232:38471" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="38502:40802" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38633:38655" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38798:38983" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38953:38979" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38989:39286" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="38995:39116" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="39171:39282" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="39703:39819" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="39899:39992" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="40075:40166" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="40804:40996" ph="/** Get the opposite placement variation of the given one ...*/" />
+            <marker date="1501094705000" expanded="true" signature="41038:41170" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="41067:41092" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="41125:41148" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="41172:42056" ph="/** List of accepted placements to use as values of the `placement` option.&lt;br /&gt; ...*/" />
+            <marker date="1501094705000" expanded="true" signature="42348:42720" ph="/** Given an initial placement, returns all the subsequent placements ...*/" />
+            <marker date="1501094705000" expanded="true" signature="42768:42951" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="42971:43055" ph="{&quot;FLIP&quot;: 'flip'...}" />
+            <marker date="1501094705000" expanded="true" signature="43058:43297" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="43327:46825" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="43458:43480" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="43547:43675" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="44018:44339" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="44378:44397" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="44442:44468" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="46114:46802" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="46236:46287" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="46317:46379" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="46459:46586" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="46827:47066" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="47095:47700" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="47484:47571" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="47619:47682" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="47702:48108" ph="/** Converts a string containing value + unit into a px value number ...*/" />
+            <marker date="1501094705000" expanded="true" signature="48177:49277" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48384:48405" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48438:48721" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48475:48631" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48763:49098" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48871:48965" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="48971:49063" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="49104:49275" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="49110:49253" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="49279:49625" ph="/** Parse an `offset` string to extrapolate `x` and `y` numeric offsets. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="49703:52136" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="49734:49910" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="49983:50134" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="50208:50327" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="50487:50590" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="50594:50697" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="51050:51198" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51253:51360" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="51383:51410" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51451:51541" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51570:51662" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51668:51705" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51961:51969" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="51996:52017" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52025:52102" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52138:52484" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="52519:53237" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52674:52707" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52713:52787" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52821:52887" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="52924:52990" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="53025:53091" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="53129:53195" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="53239:53480" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="53521:55080" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="53620:53821" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="53875:53940" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54184:54845" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54209:54453" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54333:54410" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54480:54841" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54666:54799" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="54877:54963" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="55082:55323" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="55345:56067" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="55565:56049" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="55816:55965" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="55871:55959" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="56069:56308" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="56329:57131" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="56410:56432" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="56708:56905" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="56803:56829" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="56911:57113" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="57007:57033" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="57133:57374" ph="/** @function ...*/" />
+            <marker date="1501094705000" expanded="true" signature="57396:57908" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="57910:58408" ph="/** Modifier function, each modifier can have a function of this type assigned ...*/" />
+            <marker date="1501094705000" expanded="true" signature="58410:58771" ph="/** Modifiers are plugins used to alter the behavior of your poppers.&lt;br /&gt; ...*/" />
+            <marker date="1501094705000" expanded="true" signature="58788:69534" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="58792:59047" ph="/** Modifier used to shift the popper on the start or end of its reference ...*/" />
+            <marker date="1501094705000" expanded="true" signature="59057:59304" ph="{&quot;fn&quot;: shift...}" />
+            <marker date="1501094705000" expanded="true" signature="59063:59140" ph="/** @prop {number} order=100 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="59161:59237" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="59261:59286" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="59309:60558" ph="/** The `offset` modifier can shift your popper on both its axis. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="60569:60944" ph="{&quot;fn&quot;: offset...}" />
+            <marker date="1501094705000" expanded="true" signature="60575:60652" ph="/** @prop {number} order=200 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="60673:60749" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="60773:60798" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="60819:60926" ph="/** @prop {Number|String} offset=0 ...*/" />
+            <marker date="1501094705000" expanded="true" signature="60949:61710" ph="/** Modifier used to prevent the popper from being positioned outside the boundary. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="61730:62776" ph="{&quot;fn&quot;: preventOverflow...}" />
+            <marker date="1501094705000" expanded="true" signature="61736:61813" ph="/** @prop {number} order=300 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="61834:61910" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="61934:61959" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="61989:62227" ph="/** @prop {Array} [priority=['left','right','top','bottom']] ...*/" />
+            <marker date="1501094705000" expanded="true" signature="62282:62524" ph="/** @prop {number} padding=5 ...*/" />
+            <marker date="1501094705000" expanded="true" signature="62545:62734" ph="/** @prop {String|HTMLElement} boundariesElement='scrollParent' ...*/" />
+            <marker date="1501094705000" expanded="true" signature="62781:63196" ph="/** Modifier used to make sure the reference and its popper stay near eachothers ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63213:63467" ph="{&quot;fn&quot;: keepTogether...}" />
+            <marker date="1501094705000" expanded="true" signature="63219:63296" ph="/** @prop {number} order=400 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63317:63393" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63417:63442" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63472:63853" ph="/** This modifier is used to move the `arrowElement` of the popper to make ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63863:64227" ph="{&quot;fn&quot;: arrow...}" />
+            <marker date="1501094705000" expanded="true" signature="63869:63946" ph="/** @prop {number} order=500 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="63967:64043" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64067:64092" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64112:64198" ph="/** @prop {String|HTMLElement} element='[x-arrow]' - Selector or node used as arrow ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64232:64605" ph="/** Modifier used to flip the popper's placement when it starts to overlap its ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64614:65590" ph="{&quot;fn&quot;: flip...}" />
+            <marker date="1501094705000" expanded="true" signature="64620:64697" ph="/** @prop {number} order=600 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64718:64794" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64818:64843" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="64862:65119" ph="/** @prop {String|Array} behavior='flip' ...*/" />
+            <marker date="1501094705000" expanded="true" signature="65146:65265" ph="/** @prop {number} padding=5 ...*/" />
+            <marker date="1501094705000" expanded="true" signature="65286:65552" ph="/** @prop {String|HTMLElement} boundariesElement='viewport' ...*/" />
+            <marker date="1501094705000" expanded="true" signature="65595:65838" ph="/** Modifier used to make the popper flow toward the inner of the reference element. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="65848:66097" ph="{&quot;fn&quot;: inner...}" />
+            <marker date="1501094705000" expanded="true" signature="65854:65931" ph="/** @prop {number} order=700 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="65952:66029" ph="/** @prop {Boolean} enabled=false - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66054:66079" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66102:66487" ph="/** Modifier used to hide the popper when its reference element is outside of the ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66496:66742" ph="{&quot;fn&quot;: hide...}" />
+            <marker date="1501094705000" expanded="true" signature="66502:66579" ph="/** @prop {number} order=800 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66600:66676" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66700:66725" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="66747:67357" ph="/** Computes the style that will be applied to the popper element to gets ...*/" />
+            <marker date="1501094705000" expanded="true" signature="67374:68306" ph="{&quot;fn&quot;: computeStyle...}" />
+            <marker date="1501094705000" expanded="true" signature="67380:67457" ph="/** @prop {number} order=850 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="67478:67554" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="67578:67603" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="67630:67822" ph="/** @prop {Boolean} gpuAcceleration=true ...*/" />
+            <marker date="1501094705000" expanded="true" signature="67854:68061" ph="/** @prop {string} [x='bottom'] ...*/" />
+            <marker date="1501094705000" expanded="true" signature="68083:68287" ph="/** @prop {string} [x='left'] ...*/" />
+            <marker date="1501094705000" expanded="true" signature="68311:68891" ph="/** Applies the computed styles to the popper element. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="68906:69532" ph="{&quot;fn&quot;: applyStyle...}" />
+            <marker date="1501094705000" expanded="true" signature="68912:68989" ph="/** @prop {number} order=900 - Index used to define the order of execution ...*/" />
+            <marker date="1501094705000" expanded="true" signature="69010:69086" ph="/** @prop {Boolean} enabled=true - Whether the modifier is enabled or not ...*/" />
+            <marker date="1501094705000" expanded="true" signature="69110:69135" ph="/** @prop {ModifierFn} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="69160:69183" ph="/** @prop {Function} ...*/" />
+            <marker date="1501094705000" expanded="true" signature="69218:69497" ph="/** @deprecated since version 1.10.0, the property moved to `computeStyle` modifier ...*/" />
+            <marker date="1501094705000" expanded="true" signature="69537:70828" ph="/** The `dataObject` is an object containing all the informations used by Popper.js ...*/" />
+            <marker date="1501094705000" expanded="true" signature="70830:71251" ph="/** Default options provided to Popper.js constructor.&lt;br /&gt; ...*/" />
+            <marker date="1501094705000" expanded="true" signature="71267:71899" ph="{&quot;placement&quot;: 'bottom'...}" />
+            <marker date="1501094705000" expanded="true" signature="71271:71354" ph="/** Popper's placement ...*/" />
+            <marker date="1501094705000" expanded="true" signature="71381:71489" ph="/** Whether events (resize, scroll) are initially enabled ...*/" />
+            <marker date="1501094705000" expanded="true" signature="71516:71673" ph="/** Set to true if you want to automatically remove the popper when ...*/" />
+            <marker date="1501094705000" expanded="true" signature="71703:71882" ph="/** Callback called when the popper is created.&lt;br /&gt; ...*/" />
+            <marker date="1501094705000" expanded="true" signature="71908:72203" ph="/** Callback called when the popper is updated, this callback is not called ...*/" />
+            <marker date="1501094705000" expanded="true" signature="72229:72409" ph="/** List of modifiers used to modify the offsets before they are applied to the popper. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="72426:72483" ph="/** @callback onCreate ...*/" />
+            <marker date="1501094705000" expanded="true" signature="72485:72542" ph="/** @callback onUpdate ...*/" />
+            <marker date="1501094705000" expanded="true" signature="72544:72563" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="72577:76269" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="72581:72989" ph="/** Create a new Popper.js instance ...*/" />
+            <marker date="1501094705000" expanded="true" signature="73037:75145" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="73396:73477" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="73827:73839" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="74109:74127" ph="{&quot;name&quot;: name...}" />
+            <marker date="1501094705000" expanded="true" signature="74240:74541" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="74588:74615" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="74663:74776" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="74954:75094" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="75149:75272" ph="//..." />
+            <marker date="1501094705000" expanded="true" signature="75284:75319" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="75332:75368" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="75394:75443" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="75470:75520" ph="{...}" />
+            <marker date="1501094705000" expanded="true" signature="75524:75652" ph="/** Schedule an update, it will run on the next UI update available ...*/" />
+            <marker date="1501094705000" expanded="true" signature="75657:76267" ph="/** Collection of utilities useful when writing custom modifiers. ...*/" />
+            <marker date="1501094705000" expanded="true" signature="76271:77117" ph="/** The `referenceObject` is an object that provides an interface compatible with Popper.js ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/add.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <marker date="1507295738000" expanded="true" signature="101:340" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -484,26 +857,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.4.0/core-modules/module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/popper.js/dist/popper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2932">
-          <caret line="2285" column="0" lean-forward="true" selection-start-line="2285" selection-start-column="0" selection-end-line="2285" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="1023">
+          <caret line="498" column="2" lean-forward="false" selection-start-line="498" selection-start-column="2" selection-end-line="498" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -511,31 +868,39 @@
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/rooms.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/add.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding />
         </state>
       </provider>

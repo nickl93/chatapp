@@ -6,8 +6,17 @@ block content
         tbody
             thead
                 th Name
+                th
                 th Room ID
+                th Remove
             each room in rooms
                 tr
-                    td= room.name
+                    td
+                        a(href="/rooms/"+room.id)= room.name
+                    td
+                        a.fa.fa-pencil-square-o(href="/rooms/edit/"+room.id)
+
                     td= room.id
+                    td(style="width: 50px;")
+                        a.btn.btn-danger(href="/admin/rooms/delete/"+room.id) Remove
+    a.btn.btn-success(href="/admin/rooms/add") + Add New
