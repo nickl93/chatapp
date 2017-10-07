@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    h1 Create a new chat room:
+    form(method="post")
+        fieldset.form-group
+            label(for="name") Choose a new name for #{room.id}:
+            input.form-control(type=text, value="#{room.name}" placeholder="#{room.name}", name="name" id="name")
+            small.text-muted Give your chat room a meaningful name for people to refer to it.
+        button.btn.btn-success(type="submit") Change Name!
+        a.btn.btn-danger.cancel(href="/admin/rooms") Cancel

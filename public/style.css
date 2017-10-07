@@ -5,3 +5,7 @@
 .cancel {
     margin-left: 20px;
 }
+
+.fa:hover {
+    text-decoration: none;
+}
