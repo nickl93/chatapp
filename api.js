@@ -38,4 +38,9 @@ router.route("/rooms/:id/messages")
         };
         messages.push(message);
         res.sendStatus(200);
+    })
+    .delete(function (req, res) {
+        let roomId = req.params.roomId;
+        messages = messages.filter(m => m.roomId !== roomId);
+        res.sendStatus(200);
     });

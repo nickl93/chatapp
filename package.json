@@ -27,5 +27,8 @@
     "lodash": "^4.17.4",
     "node-uuid": "^1.4.8",
     "popper.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "express-debug": "^1.1.1"
   }
 }

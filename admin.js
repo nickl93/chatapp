@@ -13,9 +13,9 @@ router.get('/rooms', function (req, res) {
     });
 });
 
-router.route('/rooms/admin/add')
+router.route('/rooms/add')
     .get(function (req, res) {
-        res.render("add")
+        res.render("add");
     })
     .post(function (req, res) {
         console.log(req);

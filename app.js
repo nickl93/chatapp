@@ -16,6 +16,7 @@ app.use(express.static("node_modules/bootstrap/dist"));
 app.use(express.static("node_modules/popper.js/dist"));
 app.use(express.static("node_modules/font-awesome"));
 app.use((bodyParser.urlencoded({ extended: true})));
+app.use((bodyParser.json()));
 app.use(function (req, res, next) {
    console.log("Incoming request: "+req.url);
    next();
