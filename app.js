@@ -1,6 +1,7 @@
 let express = require("express");
 let uuid = require("node-uuid");
 let bodyParser = require("body-parser");
+let fs = require("fs");
 // My Modules
 let adminRouter = require("./admin");
 let apiRouter = require("./api");
@@ -10,11 +11,15 @@ let app = express();
 app.set("views", "views");
 app.set("view engine", "jade");
 
+
 app.use(express.static("public"));
 app.use(express.static("node_modules/jquery/dist"));
 app.use(express.static("node_modules/bootstrap/dist"));
 app.use(express.static("node_modules/popper.js/dist"));
 app.use(express.static("node_modules/font-awesome"));
+require('express-debug')(app, {});
+var accessLogStream = fs.createWriteStream(__dirname + '/access.log', {flags: 'a'});
+app.use(require("morgan")("combined", {stream: accessLogStream}));
 app.use((bodyParser.urlencoded({ extended: true})));
 app.use((bodyParser.json()));
 app.use(function (req, res, next) {
