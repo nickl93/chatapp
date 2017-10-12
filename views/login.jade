@@ -23,7 +23,8 @@ html(lang='en')
         br
         .container
             .main-content.row
-                .col-md-4.col-md-offset-4
+                .col
+                .col-6
                     form(action='/login', method='post')
                         .form-group
                             label Username:
@@ -31,5 +32,7 @@ html(lang='en')
                         .form-group
                             label Password:
                             input.form-control(type='password', name='password')
-                        .form-group
-                            input.btn.btn-primary(type='submit', value='Log In')
+                        .row.justify-content-center
+                            .form-group
+                                input.btn.btn-primary(type='submit', value='Log In')
+                .col
