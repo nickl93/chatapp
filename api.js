@@ -39,7 +39,7 @@ router.route('/rooms/:id/messages')
         let message = {
             roomId: res.locals.room.id,
             text: req.body.text,
-            userId: req.user.id,
+            userId: req.user,
             id: uuid.v4()
         };
         messages.push(message);

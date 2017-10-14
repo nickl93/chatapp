@@ -6,10 +6,15 @@ let _ = require('lodash');
 let router = express.Router();
 module.exports = router;
 
-router.get('/login', function (req, res) {
+router.get('/login', function (req, res, next) {
     if(req.app.get('env') === 'development') {
-        let user = users[0];
-        req.login(user, function (err) {
+        let user;
+        if (req.query.user) {
+            user = _.find(users, u => u.name === req.query.user);
+        } else {
+            user = users[0];
+        }
+        req.login(user.id, function (err) {
             if (err) {
                 return next(err);
             }

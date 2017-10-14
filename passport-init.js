@@ -13,10 +13,12 @@ passport.use(new LocalStrategy(function(username, password, done){
     done(null, user);
 }));
 
-passport.serializeUser(function (user, done) {
-    done(null, user);
+passport.serializeUser(function (id, done) {
+    let user = _.find(users, u => u.id === id);
+    done(null, user.id);
 });
 
-passport.deserializeUser(function (user, done) {
-    done(null, user);
+passport.deserializeUser(function (id, done) {
+    let user = _.find(users, u => u.id === id);
+    done(null, user.id);
 });
