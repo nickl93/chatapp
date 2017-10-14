@@ -5,8 +5,8 @@ html(lang='en')
         meta(http-equiv='X-UA-Compatible', content='IE=edge')
         meta(name='viewport', content='width=device-width, initial-scale=1')
         script(src='/jquery.slim.min.js', crossorigin='anonymous', integrity='sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN')
-            script(src='/umd/popper.min.js', crossorigin='anonymous')
-            script(src='/js/bootstrap.min.js', crossorigin='anonymous', integrity='sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1')
+        script(src='/umd/popper.js', crossorigin='anonymous')
+        script(src='/js/bootstrap.min.js', crossorigin='anonymous', integrity='sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1')
         title= title
         link(rel='stylesheet', href='/css/bootstrap.min.css')
         link(rel='stylesheet', href='/css/style.css')
@@ -25,7 +25,7 @@ html(lang='en')
             .main-content.row
                 .col
                 .col-6
-                    form(action='/login', method='post')
+                    form(action='/login', method='POST')
                         .form-group
                             label Username:
                             input.form-control(type='text', name='username')
@@ -33,6 +33,6 @@ html(lang='en')
                             label Password:
                             input.form-control(type='password', name='password')
                         .row.justify-content-center
-                            .form-group
-                                input.btn.btn-primary(type='submit', value='Log In')
+                        .form-group
+                            input.btn.btn-primary(type='submit', value='Log In')
                 .col

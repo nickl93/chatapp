@@ -1,11 +1,12 @@
-let passport = require("passport");
-let LocalStrategy = require("passport-local").Strategy;
-let users = require("./data/users.json");
-let _ = require("lodash")
+let passport = require('passport');
+let LocalStrategy = require('passport-local').Strategy;
+let users = require('./data/users.json');
+let _ = require('lodash');
 
-passport.use(new LocalStrategy(function(username, password, done) {
+passport.use(new LocalStrategy(function(username, password, done){
     let user = _.find(users, u => u.name === username);
-    if (!null || user.password !== password) {
+
+    if(!user || user.password !== password){
         done(null, false);
         return;
     }
